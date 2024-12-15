@@ -54,7 +54,7 @@ classificador-heroi/
 - Instale as dependências do Node.js: npm install
 
 ## 🖼️ Preview 
-📎 [Link projeto](./output/push.png)
+📎 [Link projeto](https://github.com/LiliBR-tech/classificador-nivel-Heroi/blob/main/Desafio/output/push.png)
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
